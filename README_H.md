@@ -1,0 +1,1 @@
+Watch PNG,To use it, you need to copy the PSU to the same number of sort inputs as you need, just like on the PS3. It's expensive, but very fast—this hardware can calculate the relative order of sorting in just one round
