@@ -33,4 +33,4 @@ I don't know much about machine learning, but let's imagine logically: if you on
 I couldn't understand it, so I couldn't judge  
   
 5.Drumming lowers people's skill levels   
-To be blunt, I think this just makes it impossible for you to solve problems on your own
+To be frank, I think this just makes it impossible for you to solve problems on your own
