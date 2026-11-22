@@ -29,7 +29,7 @@ Is this level enough to entrust your brain to an LLM?
   
 3. De-copyrighting  
 If training LLMs can remove copyrights from works, in reality, they can erase all copyrights  
-I don't know much about machine learning, but let's imagine logically: if you only use a 1 picture or a 1 book for training, If an input cannot run in the program maybe add a bit of noise to it. I guess as long as the program allows, it can cleverly turn the author into an LLM  
+I don't know much about machine learning, but let's imagine logically: if you only use a 1 picture or a 1 book for training,If an input cannot run in the program, you can add an input that increases noise. I guess as long as the program allows, it can cleverly turn the author into an LLM  
 
 4. 722-Mathematical paper  
 I couldn't understand it, so I couldn't judge  
