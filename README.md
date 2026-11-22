@@ -10,7 +10,7 @@ If you want to manufacture or improve this hardware, as the price of free, you s
 If you think about it carefully, emergence doesn't really exist; it's just another way of saying "I don't know." Yes, these phenomena are very complex, but emergence only makes you feel better and doesn't solve any problems  
 On the contrary, using this word only creates some inexplicable beliefs, such as a word predictor or image recognizer  
   
-2.Vibe coding  
+2. Vibe coding  
 People constantly believe that LLMs are like gods in the field of computing. Let's put it this way: LLMs generate so much code.  
   
 but I've never heard of software that is truly difficult to generate. 
@@ -27,13 +27,13 @@ just never heard of it
 Is this level enough to entrust your brain to an LLM?  
   
   
-3.De-copyrighting  
+3. De-copyrighting  
 If training LLMs can remove copyrights from works, in reality, they can erase all copyrights  
 I don't know much about machine learning, but let's imagine logically: if you only use a 1 picture or a 1 book for training, and maybe add a bit of noise to it. I guess as long as the program allows, it can cleverly turn the author into an LLM  
 
-4.722-Mathematical paper  
+4. 722-Mathematical paper  
 I couldn't understand it, so I couldn't judge  
   
-5.lowers people's skill levels   
+5. lowers people's skill levels   
 To be frank, I think this is just to make it impossible for you to solve problems on your own  
 I really can't understand how such an obvious trap could catch so many idiots  
