@@ -3,6 +3,7 @@ A perfect sort, in terms of algorithms: "Worst N, Average N, Best N"
 I gave up applying for patents, of course, not to do charity, but to spread my ideas. Simply because LLMs are driving people crazier  
 I plan to play video games for life, but I keep seeing a bunch of AI SOLPs pretending to be video games. This junk has been mass-produced for two years, and for me, reducing them is more important than money because I don't want to spend the rest of my life consuming this junk  
 So I decided to use this as the price for spreading the word  
+If you want to manufacture or improve this hardware, as the price of free, you should attach the README.md in a prominent place to remember the foolishness and madness of this AI frenzy  
   
   
 1. Let's first talk about the origin of this idiotic belief, which is the emergence  
